@@ -1,4 +1,4 @@
-﻿namespace Producer.App
+﻿namespace Consumer.App
 {
     internal class UserCreatedEvent
     {
